@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build --public-url ./ index.html"
+    "start": "rm -rf dist && parcel index.html",
+    "build": "rm -rf dist && parcel build --public-url ./ index.html"
   },
   "repository": {
     "type": "git",
