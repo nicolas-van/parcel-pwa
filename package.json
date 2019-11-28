@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build --public-url ./ index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nicolas-van/parcel-pwa/issues"
   },
-  "homepage": "https://github.com/nicolas-van/parcel-pwa#readme"
+  "homepage": "https://github.com/nicolas-van/parcel-pwa#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
