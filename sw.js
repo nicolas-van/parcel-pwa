@@ -25,7 +25,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "index.html",
-    "revision": "fb5126c63e380e7b5c63be7e7452ec88"
+    "revision": "3f3b5039d16b4c9443c821317cd07c48"
   },
   {
     "url": "logo192.eae72d5d.png",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "revision": "260d57586012b0ed1ae78accc0bf7083"
   },
   {
-    "url": "parcel-pwa.303a3df5.js",
-    "revision": "79a47f0db3fdfd052a4299f8257ec1ea"
+    "url": "parcel-pwa.a5930bd2.js",
+    "revision": "d56475e0320604c9d8dfa3a6fa65a5db"
   },
   {
     "url": "/",
-    "revision": "571cd99ae6e36cd879acaa9b2b384899"
+    "revision": "d05b82bf27463ad558a013d60c8859ad"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
