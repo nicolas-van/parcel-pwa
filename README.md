@@ -4,7 +4,7 @@ A minimalistic PWA made with Parcel. Mostly serves as a reference implementation
 
 [Application deployed here](https://nicolas-van.github.io/parcel-pwa/). (And yes, it's an real installable PWA in the real working world of real working things with things that really works. Not a damn example with a guy saying you "yeah, it should work".)
 
-That application is deployed to Github Pages using Github Actions. You can simply fork this repository and it will deployed on your Github account.
+That application is deployed to Github Pages using Github Actions. You can simply fork this repository and it will deployed on your Github account automatically.
 
 ## Things to note:
 
